@@ -1,0 +1,25 @@
+*Casa do Paulo,1,1,Casa do Paulo,1
+aew;aew;aew;
+--------------------
+
+
+
+
+
+*Casa da joana,3,6,Casa da mae joana,3
+Paulo;1999;lele@gmail.com;
+--------------------
+
+*Casa do Sales,3,3,Lucas Sales,19
+Leonardo Eufrazio Noguerira;138;@GEC;
+--------------------
+
+
+*amazonas,5,5,ultimo teste,5
+Leonardo Eufrazio Noguerira;138;@GEC;
+--------------------
+
+
+*São José dos Campos,2,40,Center Vale,50
+Paulo Matheus de Araujo Silva;123456789;paulo@gmail.com;
+--------------------

@@ -1,0 +1,13 @@
+
+*****
+123:123:Assessor:Financeiro
+123:123:123
+*****
+Cliente
+asd:asdasd:asd
+*****
+ad:123:Coordenador:Eventos
+Leonardo:138:@gec
+*****
+leo:233:Coordenador:Documentos
+leo:138:@gec
